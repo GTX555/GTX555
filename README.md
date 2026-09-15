@@ -38,11 +38,10 @@ how technology works under the hood.
 I like turning ideas into real projects — from simple experiments to
 full-stack applications.
 
-- 🔭 Currently working on **interesting personal projects**
-- 🌱 Currently learning **new technologies & better software architecture**
-- 💡 Interested in **Web Development, Software Engineering & AI**
-- ⚡ I enjoy **building, experimenting and breaking things**
-- 🎯 Goal: **keep learning and keep shipping**
+- Currently working on **interesting personal projects**
+- Interested in **Web Development, Software Engineering & AI**
+- I enjoy **building, experimenting and breaking things**
+- Goal: **keep learning and keep shipping**
 
 ---
 
