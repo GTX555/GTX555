@@ -31,3 +31,7 @@ Here are some ideas to get you started:
     />
   </picture>
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GTX555&label=Profile%20Views&color=0e75b6&style=flat" alt="GTX555" />
+</p>
