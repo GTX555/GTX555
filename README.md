@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a developer who enjoys building things, solving problems, and learning
 how technology works under the hood.
@@ -45,24 +45,24 @@ full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 </p>
 
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,voidlinux" />
 </p>
 
 > The technologies above represent tools I work with or am currently
@@ -70,7 +70,7 @@ full-stack applications.
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
