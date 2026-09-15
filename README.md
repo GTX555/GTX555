@@ -65,11 +65,6 @@ full-stack applications.
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,voidlinux" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
-  <img src="https://dashboardicons.com/icons/external/voidlinux" width="48" />
-</p>
-
 > The technologies above represent tools I work with or am currently
 > exploring. My stack is always evolving.
 
