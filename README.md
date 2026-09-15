@@ -45,36 +45,6 @@ full-stack applications.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GTX555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GTX555&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTX555&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="200"
-  />
-</p>
-
-<p align="center">
-  <i>A snapshot of the languages I use most across my public repositories.</i>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -100,87 +70,6 @@ full-stack applications.
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🔥 Project One
-
-A short description of your most impressive project.
-
-**Tech**
-
-`TypeScript` `React` `Node.js`
-
-[View Repository →](https://github.com/GTX555)
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two
-
-Another project that demonstrates your technical skills.
-
-**Tech**
-
-`Python` `FastAPI` `PostgreSQL`
-
-[View Repository →](https://github.com/GTX555)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Project Three
-
-An AI, automation or experimental project.
-
-**Tech**
-
-`Python` `AI` `API`
-
-[View Repository →](https://github.com/GTX555)
-
-</td>
-
-<td width="50%">
-
-### 🌐 Project Four
-
-A polished frontend or full-stack application.
-
-**Tech**
-
-`Next.js` `TypeScript` `Tailwind`
-
-[View Repository →](https://github.com/GTX555)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GTX555&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -199,18 +88,3 @@ A polished frontend or full-stack application.
     />
   </picture>
 </p>
-
----
-
-## 🧠 Currently Learning
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Software Architecture      ███████████████░░░  80%   │
-│   TypeScript                 █████████████████░░  90%   │
-│   Backend Development        ██████████████░░░░░  70%   │
-│   Cloud & DevOps             ███████████░░░░░░░░  55%   │
-│   AI / Machine Learning      ██████████░░░░░░░░░  50%   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
